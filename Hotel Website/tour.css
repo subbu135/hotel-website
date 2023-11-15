@@ -1,0 +1,12 @@
+video{
+    width: 100%;
+    margin-bottom: 15px;
+    margin-right: 15px;
+}
+
+@media only screen and(max-width:571px){
+    video{
+        width: 100%;
+        margin-right: 0px;
+    }
+}
